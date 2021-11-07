@@ -1,4 +1,6 @@
 Rencana Laravel : 
 - Membuat Database
+  (Mysql) / XAMPP
 - Normalisasi Database
-- Membuat Fitur Login dan logout  
+- Membuat Fitur Login dan logout
+  # Login Admin Elite
