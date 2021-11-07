@@ -5,3 +5,4 @@ Rencana Laravel :
 - Membuat Fitur Login dan logout
   # Login Admin Elite
 - Master, Sidebar, Header, Footer, Navbar
+  # Navbar (Account, Profile)
