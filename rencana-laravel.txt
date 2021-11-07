@@ -6,3 +6,4 @@ Rencana Laravel :
   # Login Admin Elite
 - Master, Sidebar, Header, Footer, Navbar
   # Navbar (Account, Profile)
+  # Sidebar (Menu, Logout)
