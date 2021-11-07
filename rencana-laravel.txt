@@ -1,7 +1,10 @@
 Rencana Laravel : 
 - Membuat Database
   (Mysql) / XAMPP
-- Relasi Table Manual
+- Normalisasi Database
+  # Relasi table
 - Membuat Fitur Login dan logout
   # Login Admin Elite
 - Master, Sidebar, Header, Footer, Navbar
+  # Navbar (Account, Profile)
+  # Sidebar (Menu, Logout)
