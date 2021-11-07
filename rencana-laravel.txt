@@ -4,3 +4,4 @@ Rencana Laravel :
 - Normalisasi Database
 - Membuat Fitur Login dan logout
   # Login Admin Elite
+- Master, Sidebar, Header, Footer, Navbar
