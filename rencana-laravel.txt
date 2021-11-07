@@ -1,0 +1,4 @@
+Rencana Laravel : 
+- Membuat Database
+- Normalisasi Database
+- Membuat Fitur Login dan logout  
