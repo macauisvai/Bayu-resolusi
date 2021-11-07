@@ -1,4 +1,5 @@
 Resolusi : 
 - Konsisten mempelajari pemrograman laravel dan flutter
 - Membuat aplikasi yang terintegrasi antara laravel dan flutter
-- Membuat API untuk database 
+- Membuat restful API
+- Membuat aplikasi sederhana dengan flutter
